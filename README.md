@@ -5,4 +5,4 @@ This project creates a homepage clone of the Adidas website using HTML and CSS. 
 HTML5-CSS3 
 
 <h1>adidas shoes</h1>
-<img src="/image/adidas shoes.gif"/>
+<img src="/image/adidas.gif"/>
